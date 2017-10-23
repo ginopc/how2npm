@@ -1,0 +1,20 @@
+{
+  "name": "@ginopc/h2npm",
+  "version": "0.1.0",
+  "description": "How to Learn npm use",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "devel"
+  ],
+  "author": "Maurizio Aru",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}

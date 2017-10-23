@@ -4,7 +4,8 @@
   "description": "How to Learn npm use",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "node server.js"
   },
   "keywords": [
     "nodejs",
@@ -16,5 +17,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://ginopc@github.com/ginopc/how2npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ginopc/how2npm/issues"
+  },
+  "homepage": "https://github.com/ginopc/how2npm#readme"
 }

@@ -1,2 +1,5 @@
 # All hidden rc files
 .*[rR][cC]
+
+# nodejs modules ignored
+node_modules
